@@ -1,4 +1,3 @@
-<img width="50%" src="https://fr.pinterest.com/pin/986499493375164262/">
 # 🌱 AI Data Cleaning Agent
 
 Modern data centers store massive volumes of duplicated, obsolete, or low-value data. This uncontrolled growth increases storage requirements, energy consumption, and CO₂ emissions, negatively impacting both infrastructure performance and environmental sustainability.
