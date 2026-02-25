@@ -8,10 +8,10 @@ This project introduces an autonomous AI agent designed to intelligently analyze
 
 [Detect duplicated and low-value data](#Detection)
 
-Automate data cleaning and optimization
+[Automate data cleaning and optimization](#Cleaning&Optimization)
 
-Reduce storage and energy consumption
+[Reduce storage and energy consumption](#Consumption)
 
-Improve overall infrastructure performance
+[Improve overall infrastructure performance](#Performance)
 
-Promote sustainable and eco-friendly data management
+[Promote sustainable and eco-friendly data management](#Nature)
