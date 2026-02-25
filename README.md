@@ -6,7 +6,7 @@ This project introduces an autonomous AI agent designed to intelligently analyze
 
 # Key goals:
 
-[Detect duplicated and low-value data]
+[Detect duplicated and low-value data](#Detection)
 
 Automate data cleaning and optimization
 
