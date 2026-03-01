@@ -14,4 +14,4 @@ This project introduces an autonomous AI agent designed to intelligently analyze
 
 [Improve overall infrastructure performance](#Performance)
 
-[Promote sustainable and eco-friendly data management](#Nature)
+Promote sustainable and eco-friendly data management
