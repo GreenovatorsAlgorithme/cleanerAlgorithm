@@ -6,12 +6,12 @@ This project introduces an autonomous AI agent designed to intelligently analyze
 
 # Key goals:
 
-[Detect duplicated and low-value data](#Detection)
+Detect duplicated and low-value data
 
-[Automate data cleaning and optimization](#Cleaning&Optimization)
+Automate data cleaning and optimization
 
-[Reduce storage and energy consumption](#Consumption)
+Reduce storage and energy consumption
 
-[Improve overall infrastructure performance](#Performance)
+Improve overall infrastructure performance
 
 Promote sustainable and eco-friendly data management
